@@ -8,5 +8,5 @@ sudo git clone https://github.com/farazaulia/remove-error-ppa.git && sudo chmod 
 ````
 3. Remove error PPA
 ```bash
-sudo remove-ppa
+sudo remove-error-ppa
 ```
